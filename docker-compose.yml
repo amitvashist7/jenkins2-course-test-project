@@ -1,7 +1,7 @@
 version: '2'
 
 services:
-  solitaire:
+  pet-clinic:
     build: .
     ports:
       - 3080:8080
