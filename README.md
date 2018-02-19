@@ -1,1 +1,1 @@
-# jenkins2-course-test-project
+# jenkins2-course-spring-petclinic
